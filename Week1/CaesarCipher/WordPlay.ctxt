@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=WordPlay
+comment1.params=ch
+comment1.target=boolean\ isVowel(char)
+comment2.params=phrase\ ch
+comment2.target=java.lang.StringBuilder\ replaceVowels(java.lang.StringBuilder,\ char)
+comment3.params=phrase\ ch
+comment3.target=java.lang.StringBuilder\ emphasize(java.lang.StringBuilder,\ char)
+comment4.params=
+comment4.target=void\ testemphasize3()
+numComments=5
